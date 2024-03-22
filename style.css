@@ -1,5 +1,5 @@
 :root {
-  --app-bg: url(https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AHD_transparent_picture.png&psig=AOvVaw2cYSw-SqTx7qouSqQTI7hZ&ust=1711192488419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNilyPTeh4UDFQAAAAAdAAAAABAI);
+  --app-bg: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
@@ -4311,7 +4311,7 @@ body {
   background-color: var(--server-folder-color);
 }
 
-[style*="background-color: rgba(88, 101, 242, 0.4)"].folderIconWrapper__72239 {
+[style*="background-color: rgba(0, 0, 0, 0.2)"].folderIconWrapper__72239 {
   background-color: hsla(var(--accent-hsl), 0.4) !important;
 }
 
